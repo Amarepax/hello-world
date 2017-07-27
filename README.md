@@ -1,3 +1,2 @@
 # hello-world
-Prints "Hello World"
-# Edited
+cout << "Hello World"
